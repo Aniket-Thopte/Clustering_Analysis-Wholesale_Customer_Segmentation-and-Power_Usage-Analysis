@@ -6,7 +6,7 @@
 
 • Our aim is to segment customer based on their spending on 3 items using K-Mean Clustering technique.
 
-- Steps performed:
+Steps performed:
 
 • Data retrieval.
 • Data pre-processing.
